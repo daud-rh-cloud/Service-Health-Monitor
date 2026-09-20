@@ -1,4 +1,4 @@
-# Service-Health-Monitoring Tool in JAVA
+# Service-Health-Monitoring Tool in Java
 A small Java project that models a fleet of infrastructure resources (web servers, databases, load balancers) and checks their health — the core shape of a real SRE monitoring tool.
 
 
